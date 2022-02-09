@@ -2,4 +2,5 @@
 this is a java project that is  aproject in which i have builtm a Quoiz platform along with the login ,Quiz ,answer ,Timer etc
 <h1>BELOW IS THE SOURCE CODE FRO THE PROJECT</h1>
 <img src="Quiz2.PNG">
+<imh src="Quiz1 - Copy.PNG">
 <img src="Quiz3.PNG">
